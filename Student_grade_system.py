@@ -1,3 +1,6 @@
+#Written by Hüseyin Berk Keskin
+print("Written by Hüseyin Berk Keskin")
+
 def calculate_grade(line):
     line = line[:-1]
     list = line.split(':')
